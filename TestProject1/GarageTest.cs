@@ -1,7 +1,6 @@
-using Moq;
 using Ovning5_Garage1._0;
 
-namespace Ovning5_Garage1.Test
+namespace TestProject1
 {
     public class GarageTest
     {

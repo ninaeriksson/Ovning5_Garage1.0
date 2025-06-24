@@ -1,9 +1,6 @@
-﻿using Moq;
-using Ovning5_Garage1;
-using Ovning5_Garage1._0;
+﻿using Ovning5_Garage1._0;
 
-
-namespace Ovning5_Garage1.Test
+namespace TestProject1
 {
     public class GarageHandlerTest
     {
@@ -24,5 +21,4 @@ namespace Ovning5_Garage1.Test
         //    Assert.True(handler.CheckRegNumber(vehicle.RegistrationNumber));
         //}
     }
-
 }
